@@ -49,6 +49,7 @@
     <div id="lead">
         <div id="lead-content">
             <h1>박종윤</h1>
+			&nbsp;
             <h2>백엔드 개발자</h2>
         </div>
         <!-- End #lead-content -->
@@ -72,7 +73,8 @@
                 </div>
                 <div class="col-md-8">
                     <p>
-					안녕하세요. php 개발자로 약 3년의 경력이 있는 박종윤이라고 합니다. 누구나 처음엔 부족하지만 시간이 지나면 나아지고 성장할 수 있다고 믿습니다.
+					안녕하세요. php 개발자 경력이 있는 박종윤이라고 합니다.<br>
+					처음엔 부족하지만 시간이 지나면 나아지고 성장할 수 있다고 믿습니다.
                     </p>
                 </div>
             </div>
@@ -83,29 +85,28 @@
     <div id="experience" class="background-alt">
         <h2 class="heading">Experience</h2>
         <div id="experience-timeline">
-            <div data-date="September 2015 – September 2016">
-                <h3>Employer Name</h3>
-                <h4>Job Title</h4>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+            <div data-date="2020.07 – 2023.04">
+                <h3>(주)유티인프라</h3>
+                <h4>시스템 개발 운영팀 사원</h4>
+                <p>          
+				주 업무는 암환자 대상 영양관리 앱 개발을 위한 백엔드 서버 작업이었으며 이와 연계된 자사 쇼핑몰 및 병원 관련 프로젝트 개발 및 유지보수를 선임 개발자 분을 보조하며 진행하였습니다.
+					- 코드이그나이터(CI) 프레임워크를 이용한 웹 백엔드 서버 개발<br>
+					- 관리자 페이지의 경우 프론트엔드 작업도 병행<br>
+					- API를 통해 앱과 연계되는 백엔드 서버 개발<br>
+					- DB 관리 <br>
+					- Ubuntu / Centos 환경에서 서버세팅 진행<br> 
                 </p>
             </div>
 
-            <div data-date="September 2015 – September 2016">
-                <h3>Employer Name</h3>
-                <h4>Job Title</h4>
+            <div data-date="2023.10 – 2023.12">
+                <h3>㈜맨파워코리아</h3>
+                <h4>IT 사원</h4>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+				파견직 사원으로서 켄뷰(존슨앤존슨에서 분사한 기업)에서 IT project specialist 라는 직함으로 근무하였습니다.<br> 
+					- Power Automate(프로세스 자동화 플랫폼)를 활용해 회사 내부 프로그램의 알고리즘 설계 및 구현.<br>
                 </p>
             </div>
-
-            <div data-date="September 2015 – September 2016">
-                <h3>Employer Name</h3>
-                <h4>Job Title</h4>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
-                </p>
-            </div>
+			
         </div>
     </div>
     <!-- End #experience -->
@@ -113,19 +114,19 @@
     <div id="education">
         <h2 class="heading">Education</h2>
         <div class="education-block">
-            <h3>University of Ottawa</h3>
-            <span class="education-date">Sept 2016 - Sept 2017</span>
-            <h4>Bachelor of Science in Computer Science</h4>
+            <h3>학점은행제</h3>
+            <span class="education-date">2020.03 - 2022.08</span>
+            <h4>컴퓨터공학 전공</h4>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+			
             </p>
         </div>
         <!-- End .education-block -->
 
         <div class="education-block">
-            <h3>University of Ottawa</h3>
-            <span class="education-date">Sept 2016 - Sept 2017</span>
-            <h4>Bachelor of Science in Computer Science</h4>
+            <h3>한국폴리텍대학</h3>
+            <span class="education-date">2019.03 - 2019.07</span>
+            <h4>스마트전기</h4>
             <ul>
                 <li>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
