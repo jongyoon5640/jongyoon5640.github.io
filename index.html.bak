@@ -90,18 +90,20 @@
                 <h4>시스템 개발 운영팀 사원</h4>
                 <p>          
 				주 업무는 암환자 대상 영양관리 앱 개발을 위한 백엔드 서버 작업이었으며 이와 연계된 자사 쇼핑몰 및 병원 관련 프로젝트 개발 및 유지보수를 선임 개발자 분을 보조하며 진행하였습니다.
-				<li>
-                    php 코드이그나이터(CI) 프레임워크를 이용한 웹/앱 백엔드 서버 개발
-                </li>
-				<li>
-                    HTML, JavaScript, Jquery 를 이용한 웹페이지 개발
-                </li>
-				<li>
-                    DB 관리
-                </li>
-				<li>
-                    Ubuntu / Centos 환경에서 서버세팅 진행
-                </li>
+				<ul>
+					<li>
+						php 코드이그나이터(CI) 프레임워크를 이용한 웹/앱 백엔드 서버 개발
+					</li>
+					<li>
+						HTML, JavaScript, Jquery 를 이용한 웹페이지 개발
+					</li>
+					<li>
+						DB 관리
+					</li>
+					<li>
+						Ubuntu / Centos 환경에서 서버세팅 진행
+					</li>
+				</ul>
                 </p>
             </div>
 
@@ -128,27 +130,28 @@
             <h3>학점은행제</h3>
             <span class="education-date">2020.03 - 2022.08</span>
             <h4>컴퓨터공학 전공</h4>
-            <p>
-			졸업
-            </p>
+            <p>졸업</p>
         </div>
-        <!-- End .education-block -->
+		
+		<div class="education-block">
+            <h3>그린아카데미</h3>
+            <span class="education-date">2019.12 - 2020.06</span>
+            <h4>자바(JAVA) 웹개발자 양성과정 </h4>
+            <p>수료</p>
+        </div>
 
         <div class="education-block">
             <h3>한국폴리텍대학</h3>
             <span class="education-date">2019.03 - 2019.07</span>
             <h4>스마트전기</h4>
-            <ul>
-                <li>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                </li>
-                <li>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                </li>
-                <li>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                </li>
-            </ul>
+			<p>중퇴</p>
+        </div>
+		
+		<div class="education-block">
+            <h3>아주대학교</h3>
+            <span class="education-date">2013.03 - 2015.04</span>
+            <h4>심리학과</h4>
+			<p>중퇴</p>
         </div>
         <!-- End .education-block -->
     </div>
@@ -164,11 +167,13 @@
                     </div>
                     <!-- End .project-image -->
                     <div class="project-info">
-                        <h3>Project Name Here</h3>
+                        <h3>이른둥이 / 신생아 / 임산부 산후조리 관련</h3>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+						전국 병원/코디네이터들이 이른둥이 관리하는 관리자 페이지 개발 및 유지보수<br>
+						산모들 설문조사 관련 크론탭 작업 및 DB관리<br>
+						DB 데이터를 엑셀파일로 저장하여 통계 집계<br>
                         </p>
-                        <a href="#">View Project</a>
+<!--                        <a href="#">View Project</a> -->
                     </div>
                     <!-- End .project-info -->
                 </div>
@@ -180,15 +185,28 @@
                     </div>
                     <!-- End .project-image -->
                     <div class="project-info">
-                        <h3>Project Name Here</h3>
+                        <h3>암환자 영양관리 앱 / 레시피 / 관련 쇼핑몰</h3>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
                         </p>
-                        <a href="#">View Project</a>
                     </div>
                     <!-- End .project-info -->
                 </div>
                 <!-- End .project -->
+				
+				<div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/project.jpg" />
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>켄뷰 분할 관련 기존 자동화 프로그램 Nintex 대체</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                        </p>
+                    </div>
+                </div>
+				
             </div>
         </div>
     </div>
