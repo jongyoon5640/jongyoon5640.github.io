@@ -74,7 +74,7 @@
                 <div class="col-md-8">
                     <p>
 					안녕하세요. php 개발자 경력이 있는 박종윤이라고 합니다.<br>
-					처음엔 부족하지만 시간이 지나면 나아지고 성장할 수 있다고 믿습니다.
+					처음엔 부족하겠지만 시간이 지나면 나아지고 성장할 수 있다고 믿습니다.
                     </p>
                 </div>
             </div>
@@ -90,11 +90,18 @@
                 <h4>시스템 개발 운영팀 사원</h4>
                 <p>          
 				주 업무는 암환자 대상 영양관리 앱 개발을 위한 백엔드 서버 작업이었으며 이와 연계된 자사 쇼핑몰 및 병원 관련 프로젝트 개발 및 유지보수를 선임 개발자 분을 보조하며 진행하였습니다.
-					- 코드이그나이터(CI) 프레임워크를 이용한 웹 백엔드 서버 개발<br>
-					- 관리자 페이지의 경우 프론트엔드 작업도 병행<br>
-					- API를 통해 앱과 연계되는 백엔드 서버 개발<br>
-					- DB 관리 <br>
-					- Ubuntu / Centos 환경에서 서버세팅 진행<br> 
+				<li>
+                    php 코드이그나이터(CI) 프레임워크를 이용한 웹/앱 백엔드 서버 개발
+                </li>
+				<li>
+                    HTML, JavaScript, Jquery 를 이용한 웹페이지 개발
+                </li>
+				<li>
+                    DB 관리
+                </li>
+				<li>
+                    Ubuntu / Centos 환경에서 서버세팅 진행
+                </li>
                 </p>
             </div>
 
@@ -103,7 +110,11 @@
                 <h4>IT 사원</h4>
                 <p>
 				파견직 사원으로서 켄뷰(존슨앤존슨에서 분사한 기업)에서 IT project specialist 라는 직함으로 근무하였습니다.<br> 
-					- Power Automate(프로세스 자동화 플랫폼)를 활용해 회사 내부 프로그램의 알고리즘 설계 및 구현.<br>
+				<ul>				
+					<li>
+						Power Automate(프로세스 자동화 플랫폼)를 활용해 회사 내부 프로그램의 알고리즘 설계 및 구현
+					</li>
+				</ul>
                 </p>
             </div>
 			
@@ -118,7 +129,7 @@
             <span class="education-date">2020.03 - 2022.08</span>
             <h4>컴퓨터공학 전공</h4>
             <p>
-			
+			졸업
             </p>
         </div>
         <!-- End .education-block -->
@@ -184,34 +195,21 @@
     <!-- End #projects -->
 
     <div id="skills">
-        <h2 class="heading">Skills</h2>
+        <h2 class="heading">Skills / Tools</h2>
         <ul>
+            <li>PHP</li>
+            <li>CodeIgniter</li>
             <li>JavaScript</li>
-            <li>Python</li>
-            <li>Ruby</li>
-            <li>Go</li>
-            <li>Node.js</li>
-            <li>AngularJs</li>
-            <li>React</li>
-            <li>Elixir</li>
-            <li>Java</li>
-            <li>C</li>
-            <li>C#</li>
-            <li>C++</li>
-            <li>Ruby on Rails</li>
-            <li>JavaScript</li>
-            <li>Python</li>
-            <li>Ruby</li>
-            <li>Go</li>
-            <li>Node.js</li>
-            <li>AngularJs</li>
-            <li>React</li>
-            <li>Elixir</li>
-            <li>Java</li>
-            <li>C</li>
-            <li>C#</li>
-            <li>C++</li>
-            <li>Ruby on Rails</li>
+			<li>jQuery</li>
+            <li>HTML5</li>
+            <li>CSS</li>
+            <li>Bootstrap</li>
+            <li>Linux</li>
+			<li>NGINX</li>
+            <li>Mariadb</li>
+            <li>HeidiSQL</li>
+            <li>Postman</li>
+            <li>Xshell</li>
         </ul>
     </div>
     <!-- End #skills -->
@@ -219,10 +217,10 @@
     <div id="contact">
         <h2>Get in Touch</h2>
         <div id="contact-form">
-            <form method="POST" action="https://formspree.io/email@email.com">
+            <form method="POST" action="">
                 <input type="hidden" name="_subject" value="Contact request from personal website" />
-                <input type="email" name="_replyto" placeholder="Your email" required>
-                <textarea name="message" placeholder="Your message" required></textarea>
+                <input type="email" name="_replyto" placeholder="sjpa2575@naver.com" required>
+                <textarea name="message" placeholder="" required></textarea>
                 <button type="submit">Send</button>
             </form>
         </div>
@@ -235,7 +233,7 @@
             <div class="row">
                 <div class="col-sm-5 copyright">
                     <p>
-                        Copyright &copy; <span id="current-year">2022</span> YOUR NAME
+                        Copyright &copy; <span id="current-year">2025</span> 박종윤
                     </p>
                 </div>
                 <div class="col-sm-2 top">
